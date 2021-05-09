@@ -16,5 +16,5 @@ Computer Vision, Object Detection
 
 
 ## Publications
-1. H. Zhong, X. Yan, Y. Jiang and S. -T. Xia, "Improved Real-Time Visual Tracking via Adversarial Learning," ICASSP 2020. [link] (https://ieeexplore.ieee.org/document/9053709)
+1. H. Zhong, X. Yan, Y. Jiang and S. -T. Xia, "Improved Real-Time Visual Tracking via Adversarial Learning," ICASSP 2020. [(link)](https://ieeexplore.ieee.org/document/9053709)
 
